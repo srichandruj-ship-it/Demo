@@ -1,0 +1,20 @@
+{    "password":"secret_sauce",
+    "user1":{
+        "name":"standard_user"
+    },
+    "user2":{
+        "name":"locked_out_user"
+    },
+    "user3":{
+        "name":"problem_user"
+    },
+    "user4":{
+        "name":"performance_glitch_user"
+    },
+    "user5":{
+        "name":"error_user"
+    },
+    "user6":{
+        "name":"visual_user"
+    } 
+}

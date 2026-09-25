@@ -1,0 +1,33 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Ganesh-186/SauceDemo#readme",
+  "bugs": {
+    "url": "https://github.com/Ganesh-186/SauceDemo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganesh-186/SauceDemo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.2.0",
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.12.2"
+  },
+  "dependencies": {
+    "playwright": "^1.62.1",
+    "playwright-core": "^1.62.1",
+    "undici-types": "^8.3.0"
+  }
+}
